@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: cd4df9027018e78429c4fdc6b6f69081
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Door_L
+    100002: Door_L 1
+    100004: Door_R
+    100006: Door_R 1
+    100008: Doors_L
+    100010: Doors_L_mesh
+    100012: Doors_R
+    100014: Doors_R_mesh
+    100016: //RootNode
+    100018: TVStand
+    400000: Door_L
+    400002: Door_L 1
+    400004: Door_R
+    400006: Door_R 1
+    400008: Doors_L
+    400010: Doors_L_mesh
+    400012: Doors_R
+    400014: Doors_R_mesh
+    400016: //RootNode
+    400018: TVStand
+    2300000: TVStand
+    3300000: TVStand
+    4300000: Doors_L_mesh
+    4300002: TVStand
+    4300004: Doors_R_mesh
+    6400000: TVStand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Doors_L_mesh
+    13700002: Doors_R_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVStand_mtl
+    second: {fileID: 2100000, guid: 343a5158d876df94eb8502b23df3c70b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

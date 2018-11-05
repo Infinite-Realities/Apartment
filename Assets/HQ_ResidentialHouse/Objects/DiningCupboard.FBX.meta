@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 0db97bc8a3f5fb244af2a6e54d48229e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DiningCupboard
+    100004: DoorDown_L
+    100006: DoorDown_R
+    100008: DoorsDown
+    100010: DoorsUp
+    100012: DoorUp_L
+    100014: DoorUp_R
+    100016: Glass_L
+    100018: Glass_R
+    100020: DoorsDown_mesh
+    100022: DoorsUp_mesh
+    400000: //RootNode
+    400002: DiningCupboard
+    400004: DoorDown_L
+    400006: DoorDown_R
+    400008: DoorsDown
+    400010: DoorsUp
+    400012: DoorUp_L
+    400014: DoorUp_R
+    400016: Glass_L
+    400018: Glass_R
+    400020: DoorsDown_mesh
+    400022: DoorsUp_mesh
+    2300000: DiningCupboard
+    2300002: Glass_L
+    2300004: Glass_R
+    2300006: DoorsDown_mesh
+    2300008: DoorsUp_mesh
+    3300000: DiningCupboard
+    3300002: Glass_L
+    3300004: Glass_R
+    3300006: DoorsDown_mesh
+    3300008: DoorsUp_mesh
+    4300000: DiningCupboard
+    4300002: Glass_R
+    4300004: Glass_L
+    4300006: DoorsDown
+    4300008: DoorsUp
+    4300010: DoorsDown_mesh
+    4300012: DoorsUp_mesh
+    6400000: DiningCupboard
+    6400002: Glass_L
+    6400004: Glass_R
+    6400006: DoorsDown_mesh
+    6400008: DoorsUp_mesh
+    7400000: DiningCupboard_open
+    7400002: DiningCupboard_open //// DiningCupboard
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: DiningCupboard
+    11100004: DoorDown_L
+    11100006: DoorDown_R
+    11100008: DoorsDown
+    11100010: DoorsDown_mesh
+    11100012: DoorsUp
+    11100014: DoorsUp_mesh
+    11100016: DoorUp_L
+    11100018: DoorUp_R
+    11100020: Glass_L
+    11100022: Glass_R
+    13700000: DoorsDown
+    13700002: DoorsUp
+    13700004: DoorsDown_mesh
+    13700006: DoorsUp_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiningCupboardGlass_mtl
+    second: {fileID: 2100000, guid: bc8a258f302851249a020c9993948e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiningCupboard_mtl
+    second: {fileID: 2100000, guid: 025386a9d3158cc48b0dd48b5994a42d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DiningCupboard_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DiningCupboard
+        weight: 1
+      - path: DiningCupboard/DoorDown_L
+        weight: 1
+      - path: DiningCupboard/DoorDown_R
+        weight: 1
+      - path: DiningCupboard/DoorUp_L
+        weight: 1
+      - path: DiningCupboard/DoorUp_L/Glass_L
+        weight: 1
+      - path: DiningCupboard/DoorUp_R
+        weight: 1
+      - path: DiningCupboard/DoorUp_R/Glass_R
+        weight: 1
+      - path: DoorsDown
+        weight: 1
+      - path: DoorsUp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
